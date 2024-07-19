@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.kiml.ifi.lmu.de/people/employees/muschalik/index.html'>Artificial Intelligence and Machine Learning</a> at LMU Munich.
 
@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Maximilian Muschalik, and I am a PhD student at Prof. Eyke Hüllermeier's AIML chair, LMU Munich.
+Hi, I am Maximilian Muschalik, and I am a PhD student at Prof. [Eyke Hüllermeier's](https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html) [AIML](https://www.kiml.ifi.lmu.de/people/employees/muschalik/index.html) chair, LMU Munich.
 
 ## Research Focus
 My research centers on the topic of explainable artificial intelligence (XAI), with a focus on black-box machine learning models applied in dynamic learning environments. Specifically, I investigate the challenges of creating accurate and timely explanations for models that must constantly adapt to changes in data streams and learning tasks.
 
 In such dynamic settings, traditional XAI methods may be computationally expensive or unable to provide faithful explanations in a timely manner. To address this issue, I am developing alternative XAI approaches that are dynamic and efficient, able to adapt to the changing data and learning tasks in real-time while still providing interpretable and accurate explanations.
 
-My research is part of the TRR 318 “Constructing Explainability” (https://trr318.uni-paderborn.de/projekte/c03).
+My research is part of the [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/projekte/c03).
