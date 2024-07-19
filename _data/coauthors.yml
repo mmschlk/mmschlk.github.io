@@ -1,34 +1,20 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Bengs":
+  - firstname: ["Viktor"]
+    url: https://scholar.google.de/citations?hl=de&user=J1eEtpwAAAAJ
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Fumagalli":
+  - firstname: ["Fabian"]
+    url: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=316634936
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Hammer":
+  - firstname: ["Barbara"]
+    url: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=18302458
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Hüllermeier":
+  - firstname: ["Eyke"]
+    url: https://www.kiml.ifi.lmu.de/people/professors/huellermeier/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kolpaczki":
+  - firstname: ["Patrick"]
+    url: https://www.kiml.ifi.lmu.de/people/employees/kolpaczki/index.html
