@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What Are Shapley Interactions, and Why Should You Care?
-date: 2015-12-05 12:00:00
+date: 2024-12-05 12:00:00
 description: A gentle introduction to Shapley interactions and why they matter.
 tags: formatting images
 categories: shapley-interactions
