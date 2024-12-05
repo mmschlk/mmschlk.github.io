@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, I am Maximilian Muschalik, and I am a PhD student at Prof. [Eyke Hüllermeier's](https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html) [AIML](https://www.kiml.ifi.lmu.de/people/employees/muschalik/index.html) chair, LMU Munich.
-I also like Shapley interactions quite a lot. So I work on them and develop [shapiq](https://github.com/mmschlk/shapiq)
+I also like Shapley interactions quite a lot. So I work on them and develop [shapiq](https://github.com/mmschlk/shapiq).
 
 ## Research Focus
 My research centers on the topic of explainable artificial intelligence (XAI), with a focus on black-box machine learning models.
