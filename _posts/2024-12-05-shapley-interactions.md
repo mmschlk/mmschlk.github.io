@@ -40,7 +40,7 @@ This means:
 * We can’t tell how much of a feature’s influence is individual versus interactive.  
 * We don’t know which other features it interacts with.
 
-<img src="/assets/img/blog_post_shapley_interaction_1.png" alt="shapiq logo" width="400"/>
+<img src="/assets/img/blog_post_shapley_interaction_1.png" alt="example showing shapley values" width="650"/>
 
 ## Enter Shapley Interactions
 
@@ -58,7 +58,7 @@ By predefining a **maximum interaction order,** you can control how detailed the
 Setting it to second-order interactions, for instance, allows you to explore how pairs of features interact (like longitude and latitude) while still capturing individual effects.
 This provides a richer understanding of how features influence predictions—whether independently or through their interplay.
 
-<img src="/assets/img/blog_post_shapley_interaction_2.png" alt="shapiq logo" width="400"/>
+<img src="/assets/img/blog_post_shapley_interaction_2.png" alt="example showing shapley interactions" width="650"/>
 
 Hence, Shapley interactions give you more granular insights into the relationships driving model predictions, helping **uncover synergies or redundancies that traditional Shapley values can’t**.
 One of the main takeaways here is that we can interpret Shapley interactions like you are used to with SHAP, while providing more information.
@@ -75,4 +75,4 @@ Striking the right balance between depth and simplicity depends on your goals.
 If you're curious about how to compute these decompositions or visualize them, check out our **[shapiq package](https://github.com/mmschlk/shapiq)** for an easy way to explore Shapley interactions and uncover new insights\!
 Currently, we offer a range of model-agnostic and model-specific explainers and computation methods, which you can use to calculate Shapley interactions and Shapley values for all data types and model kinds. Check out the tutorial notebooks on how to use it for your task.
 
-<img src="/assets/img/blog_post_shapley_interaction_3.png" alt="shapiq logo" width="400"/>
+<img src="/assets/img/blog_post_shapley_interaction_3.png" alt="an image showing what shapiq contains" width="650"/>
